@@ -44,11 +44,11 @@ If we would like to receive an e-mail warning about we are incurring a cost abov
 
 We navigate to the AWS **Billing and Cost Management** service
 
-We select in the left menu the **Budgets** option, and we press the **** button
+We select in the left menu the **Budgets** option, and we press the **Create a budget** button
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/b68dcb3d-81cb-4e23-88b9-d6fee4cb7a84)
 
-
+We select the Monthly cost budget, for setting the maximum amount of money we would like to spend during the month.
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/ffa3b7a0-a090-44fe-92d6-311e12fd3d3c)
 
