@@ -34,7 +34,9 @@ After setting the cost during december 2023 we select the option for detailing t
 
 Now we also include the filter to show the cost splitted by AWS services
 
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/89fd9de3-807e-4dbf-a34e-2a5cff97eed2)
 
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/b1ce20c0-fe43-4ab1-a2af-38d66dfbaee0)
 
 ## 2. AWS Budget setup
 
