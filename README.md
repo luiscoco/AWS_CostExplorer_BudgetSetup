@@ -56,3 +56,8 @@ We set the budget name, the maximum amout of money to spend and the e-mails to r
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/584988f1-113f-4285-92ef-b8ee114fcd1e)
 
+Verify the created budget alert
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/6e297040-4eaa-44a5-b9e4-7a499300e533)
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/cd9278bc-06fe-41b7-9112-2a4e679e6d60)
