@@ -36,7 +36,7 @@ Now we also include the filter to show the cost splitted by AWS services
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/89fd9de3-807e-4dbf-a34e-2a5cff97eed2)
 
-![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/be0b649d-0b39-4fa5-8870-042deaae26cf)
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/369ade2a-65a1-4e7b-92e3-0484d8d309dd)
 
 ## 2. AWS Budget setup
 
