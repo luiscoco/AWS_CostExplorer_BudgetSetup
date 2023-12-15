@@ -1,4 +1,4 @@
-# AWS_CostExplorer_BudgetSetup
+# How to see your Incurred Cost in AWS and to setup a Monthly Budget Alert
 
 For accessing the Cost Explorer and the Budget services in AWS is requested you login in the AWS Console with the **Administrator user**.
 
