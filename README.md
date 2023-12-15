@@ -26,6 +26,14 @@ We also can fix the Cost date range
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/2d356de8-7c81-4d15-9f14-9c9fd011ed16)
 
+After setting the cost during december 2023 we select the option for detailing the daily cost
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/11bf0c15-9069-40d9-863e-4a95018380d9)
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/2ffd67f1-da50-47f6-914e-23e0fb0b3153)
+
+Now we also include the filter to show the cost splitted by AWS services
+
 
 
 ## 2. AWS Budget setup
