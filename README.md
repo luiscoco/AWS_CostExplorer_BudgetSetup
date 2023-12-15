@@ -52,4 +52,7 @@ We select the Monthly cost budget, for setting the maximum amount of money we wo
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/ffa3b7a0-a090-44fe-92d6-311e12fd3d3c)
 
+We set the budget name, the maximum amout of money to spend and the e-mails to receive the warning message when reaching the thershold
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/584988f1-113f-4285-92ef-b8ee114fcd1e)
 
