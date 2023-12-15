@@ -38,6 +38,12 @@ Now we also include the filter to show the cost splitted by AWS services
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/369ade2a-65a1-4e7b-92e3-0484d8d309dd)
 
+You can also dowload an Excel file with the the graph daily cost information shown above.
+
+Go to Cost Explorer, scroll down and press the **Download as CSV** button
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/0a1963fa-ae5c-4460-a8af-bb38f11b0753)
+
 ## 2. AWS Budget setup
 
 If we would like to receive an e-mail warning about we are incurring a cost above a predetermined amount, we can follow the following steps
