@@ -22,6 +22,11 @@ If we click on the "**Cost Explorer**" we can see in detail the AWS Services inc
 
 ![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/c850a1eb-aba6-4688-8c9f-d1748feadbd5)
 
+We also can fix the Cost date range
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/2d356de8-7c81-4d15-9f14-9c9fd011ed16)
+
+
 
 ## 2. AWS Budget setup
 
