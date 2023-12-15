@@ -16,6 +16,11 @@ We can expand this widget to see the cost details
 
 Also we can navigate to the "**Go to Billing and Cost Management**" 
 
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/7d35abea-5487-4bd7-81cb-a218acac8a34)
+
+If we click on the "**Cost Explorer**" we can see in detail the AWS Services incurred cost
+
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/c850a1eb-aba6-4688-8c9f-d1748feadbd5)
 
 
 ## 2. AWS Budget setup
