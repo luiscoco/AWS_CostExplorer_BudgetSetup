@@ -12,7 +12,10 @@ We can verify the AWS Cost and Usage:
 
 We can expand this widget to see the cost details
 
-![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/be48d1cd-3a5f-4a73-b60e-0a1c3799343f)
+![image](https://github.com/luiscoco/AWS_CostExplorer_BudgetSetup/assets/32194879/73581f1b-839d-4c31-a763-fbc7538b007c)
+
+Also we can navigate to the "**Go to Billing and Cost Management**" 
+
 
 
 ## 2. AWS Budget setup
